@@ -10,3 +10,4 @@ Capstone Project1-NASA Near-Earth Object (NEO) Tracking &amp; Insights using Pub
       e.creating table in database from python.
       f. Inserting data excracted from json to Mysql tables.
 3.NeoStrlit.py file represents data in database with the help of streamlit.
+4.31a0d1d5aacc178f5e75d38eaa5940a2.gif is the image file used in 'Home' streamlit pill.
